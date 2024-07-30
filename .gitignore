@@ -128,3 +128,4 @@ tests/windows
 /bin-int/Debug-windows-x86_64/GLFW/window.obj
 /bin-int/Dist-windows-x86_64/GLFW/GLFW.Build.CppClean.log
 /bin-int/Release-windows-x86_64/GLFW/GLFW.Build.CppClean.log
+/bin-int/Debug-windows-x86_64/GLFW/GLFW.Build.CppClean.log
